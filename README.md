@@ -19,5 +19,5 @@ Contains code for the FREAK Project (<b>F</b>acial <b>R</b>ecognition <b>E</b>le
 
 <li>Remember to change the IP address in facerecog.py to the IP Address of server.
 <li>Make sure that the server is accisible.
-
+</ul>
 Server code is yet to be uploaded.
