@@ -6,11 +6,11 @@ You can change the algorithm used for face recognition by editing the face_learn
 
 face_detect.py stores the face of person in pics folder. Make the folders in pics folder before running the program. Instructions given in Readme.md inside /pics
 
-First detect and store the face using face_detect.py
-  -Pressing 'space' will store the face
-  -pressing 'TAB' will change to next person
-  -pressing 'a' will go back to previous person
-  -pressing 'ESCAPE' will end the program.
+First detect and store the face using face_detect.py<br>
+  -Pressing 'space' will store the face<br>
+  -pressing 'TAB' will change to next person<br>
+  -pressing 'a' will go back to previous person<br>
+  -pressing 'ESCAPE' will end the program.<br>
 Atleast store ~50 faces for everyperson
 
 After the faces have been stored, use face_learn.py to learn the faces of everyone. This will create trainer.xml file.
